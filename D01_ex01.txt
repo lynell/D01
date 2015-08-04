@@ -1,2 +1,3 @@
 # D01_ex01
-Name: Lynell Amanna
+Name:  Lynell Amanna
+-Favorite Color: Pink
